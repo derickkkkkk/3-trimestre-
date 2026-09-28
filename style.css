@@ -7,3 +7,12 @@
 body{
     background-color: var(--fundo);
 }
+    .Cartão__Conteúdo {
+        background-color: var(--Frente-cartão);
+        text-align: center;
+    }
+
+
+    .Cartão__Conteúdo h3{
+        color: cor var(--cor-do-texto);
+    }
