@@ -4,3 +4,6 @@
     --cor-texto-preto: #000000;
     --Frente-cartão:  #6959CD;
 }
+body{
+    background-color: var(--fundo);
+}
